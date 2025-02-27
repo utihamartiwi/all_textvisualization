@@ -10,8 +10,6 @@ Original file is located at
 #!pip install PySastrawi
 #!pip install streamlit
 
-"""# Instalasi library yang dibutuhkan"""
-
 import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt

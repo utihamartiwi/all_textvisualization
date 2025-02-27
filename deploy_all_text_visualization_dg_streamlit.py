@@ -24,6 +24,7 @@ nltk.download('punkt_tab')
 nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
+import io
 
 import Sastrawi
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory

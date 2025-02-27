@@ -25,6 +25,7 @@ nltk.download('stopwords')
 nltk.download('wordnet')
 nltk.download('omw-1.4')
 
+import Sastrawi
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 factory_stem = StemmerFactory()
 stemmer = factory_stem.create_stemmer()
